@@ -31,8 +31,8 @@
 
   var materialPackages=[
     'core',
-    'button',
-    'card',
+    //'button',
+    //'card',
     'list',
   ];
   materialPackages.forEach(function(pkgName) {
